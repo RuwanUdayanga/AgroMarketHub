@@ -1,0 +1,13 @@
+.navbar-collapse{
+    font-size: large;
+  }
+.navbar{
+    transition: transform 0s ease-in-out;
+}
+.navbar-hidden {
+    transform: translateY(-100%);
+    transition: transform 0.5s ease;
+  }
+.bg-nav{
+  background-image: linear-gradient(120deg, #a1c64d 0%, #6cc378 100%);
+}
